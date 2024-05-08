@@ -1,0 +1,3 @@
+[submodule "apps/gateways/franqueado"]
+	path = apps/gateways/franqueado
+	url = git@github.com:SGE-EDTECH/sge-gateway-franqueado.git
