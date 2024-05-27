@@ -4,3 +4,6 @@
 [submodule "apps/front/admin-backoffice"]
 	path = apps/front/admin-backoffice
 	url = git@github.com:SGE-EDTECH/sge-admin-backoffice.git
+[submodule "apps/gateways/auth"]
+	path = apps/gateways/auth
+	url = git@github.com:SGE-EDTECH/sge-auth.git
